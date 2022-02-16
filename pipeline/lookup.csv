@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 employment-allocation,,local-authority-eng:ESK,SCLP12.20,5900000
 employment-allocation,,local-authority-eng:ESK,SCLP12.29,5900001
 employment-allocation,,local-authority-eng:ESK,SCLP12.7,5900002
